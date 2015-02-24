@@ -1,0 +1,26 @@
+package webS;
+
+String query =
+"PREFIX imdb: <http://data.linkedmdb.org/resource/movie/> " +
+"PREFIX dcterms: <http://purl.org/dc/terms/> " +
+"PREFIX dbpo: <http://dbpedia.org/ontology/> " +
+"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> " +
+
+"SELECT ?actor ?birthDate ?movieTitle ?movieDate { " +
+" { SERVICE <http://dbpedia.org/sparql> " +
+"    { SELECT ?birthDate WHERE { " +
+"        ?actor rdfs:label "Jack Nicholson"@en ; " +
+"               dbpo:birthDate ?birthDate ; " +
+"      } " +
+"    } " +
+"   } " +
+"  { SERVICE <http://data.linkedmdb.org/sparql> " +
+"    { SELECT ?actor ?movieTitle ?movieDate WHERE { " +
+"      ?actor imdb:actor_name "Jack Nicholson" . " +
+"      ?movie imdb:actor ?actor ; " +
+"            dcterms:title ?movieTitle ; " +
+"            dcterms:date ?movieDate . " +
+"      } " +
+"    } " +
+"  } " +
+"}"

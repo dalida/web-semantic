@@ -1,0 +1,12 @@
+{
+  "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar",
+    "status": "RESOLVED"
+  },
+  "/Users/lstilo/jena/apache-jena-2.12.1/lib/jena-core-2.12.1.jar": {
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jena-core-2.12.1.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/Users/lstilo/jena/apache-jena-2.12.1/lib/jena-core-2.12.1.jar\u0027. Neither fingerprint \u0027b62a54d2ef9faed9b62f89c61403dd81a56ad26a\u0027 nor symbolic name \u0027org.apache.jena.jena-core\u0027 are known."
+  }
+}

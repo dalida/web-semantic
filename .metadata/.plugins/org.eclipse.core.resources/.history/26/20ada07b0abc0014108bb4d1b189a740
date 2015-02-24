@@ -1,0 +1,86 @@
+package webS;
+
+import com.hp.hpl.jena.query.Query;
+import com.hp.hpl.jena.query.QueryExecution;
+import com.hp.hpl.jena.query.QueryExecutionFactory;
+import com.hp.hpl.jena.query.QueryFactory;
+import com.hp.hpl.jena.query.ResultSet;
+import com.hp.hpl.jena.query.ResultSetFormatter;
+
+public class FedQ {
+
+	final static String serviceEndpoint = "http://sparql.org/sparql";
+
+	// final static String serviceEndpoint = "http://dbpedia.org/sparql";
+
+	public static void main(String[] args) {
+
+		String queryString = "PREFIX imdb: <http://data.linkedmdb.org/resource/movie/> "
+				+ "PREFIX dcterms: <http://purl.org/dc/terms/> "
+				+ "PREFIX dbpo: <http://dbpedia.org/ontology/> "
+				+ "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> "
+				+
+
+				"SELECT ?actor ?birthDate ?movieTitle ?movieDate { "
+				+ " { SERVICE <http://dbpedia.org/sparql> "
+				+ "    { SELECT ?birthDate WHERE { "
+				+ "        ?actor rdfs:label \"Jack Nicholson\"@en ; "
+				+ "               dbpo:birthDate ?birthDate ; "
+				+ "      } "
+				+ "    } "
+				+ "   } "
+				+ "  { SERVICE <http://data.linkedmdb.org/sparql> "
+				+ "    { SELECT ?actor ?movieTitle ?movieDate WHERE { "
+				+ "      ?actor imdb:actor_name \"Jack Nicholson\" . "
+				+ "      ?movie imdb:actor ?actor ; "
+				+ "            dcterms:title ?movieTitle ; "
+				+ "            dcterms:date ?movieDate . } } } }";
+
+		Query query = QueryFactory.create(queryString); // exception happens
+														// here
+		QueryExecution qe = QueryExecutionFactory.sparqlService(
+				serviceEndpoint, query);
+
+		try {
+			ResultSet rs = qe.execSelect();
+			if (rs.hasNext()) {
+				// show the result, more can be done here
+				System.out.println(ResultSetFormatter.asText(rs));
+			}
+		} catch (Exception e) {
+			System.out.println("Exception caught: \n");
+			System.out.println(e.getMessage());
+		} finally {
+			qe.close();
+		}
+		System.out.println("\nall done.");
+	}
+
+}
+
+// package webS;
+//
+// public class FedQ {
+// public static void main(String[] args) {
+// String query = "PREFIX imdb: <http://data.linkedmdb.org/resource/movie/> "
+// + "PREFIX dcterms: <http://purl.org/dc/terms/> "
+// + "PREFIX dbpo: <http://dbpedia.org/ontology/> "
+// + "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> "
+// +
+//
+// "SELECT ?actor ?birthDate ?movieTitle ?movieDate { "
+// + " { SERVICE <http://dbpedia.org/sparql> "
+// + "    { SELECT ?birthDate WHERE { "
+// + "        ?actor rdfs:label \"Jack Nicholson\"@en ; "
+// + "               dbpo:birthDate ?birthDate ; "
+// + "      } "
+// + "    } "
+// + "   } "
+// + "  { SERVICE <http://data.linkedmdb.org/sparql> "
+// + "    { SELECT ?actor ?movieTitle ?movieDate WHERE { "
+// + "      ?actor imdb:actor_name \"Jack Nicholson\" . "
+// + "      ?movie imdb:actor ?actor ; "
+// + "            dcterms:title ?movieTitle ; "
+// + "            dcterms:date ?movieDate . } } } }";
+// }
+// }

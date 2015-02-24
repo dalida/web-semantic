@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:core="http://vivoweb.org/ontology/core#" xmlns:vitro="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/40316">
+  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  <bibo:authorList>
+    <rdf:Seq>
+      <rdf:li>Li, Jing</rdf:li>
+      <rdf:li>Rodnin, Mykola V</rdf:li>
+      <rdf:li>Ladokhin, Alexey S</rdf:li>
+      <rdf:li>Gross, Michael L.</rdf:li>
+    </rdf:Seq>
+  </bibo:authorList>
+  <core:title>Hydrogen-Deuterium Exchange and Mass Spectrometry Reveal the pH-Dependent Conformational Changes of Diphtheria Toxin T Domain</core:title>
+  <bibo:abstract>The translocation (T) domain of diphtheria toxin plays a critical role in moving the catalytic domain across the endosomal membrane. Translocation/insertion is triggered by a decrease in pH in the endosome where conformational changes of T domain occur through several kinetic intermediates to yield a final trans-membrane form. High-resolution structural studies are only applicable to the static T-domain structure at physiological pH, and studies of the T-domain translocation pathway are hindered by the simultaneous presence of multiple conformations. Here, we report the application of hydrogen-deuterium exchange mass spectrometry (HDX-MS) for the study of the pH-dependent conformational changes of the T domain in solution. Effects of pH on intrinsic HDX rates were deconvolved by converting the on-exchange times at low pH into times under our &amp;quot;standard condition&amp;quot; (pH 7.5). pH-Dependent HDX kinetic analysis of T domain clearly reveals the conformational transition from the native state (W-state) to a membrane-competent state (W(+)-state). The initial transition occurs at pH 6 and includes the destabilization of N-terminal helices accompanied by the separation between N- and C-terminal segments. The structural rearrangements accompanying the formation of the membrane-competent state expose a hydrophobic hairpin (TH8-9) to solvent, prepare it to insert into the membrane. At pH 5.5, the transition is complete, and the protein further unfolds, resulting in the exposure of its C-terminal hydrophobic TH8-9, leading to subsequent aggregation in the absence of membranes. This solution-based study complements high resolution crystal structures and provides a detailed understanding of the pH-dependent structural rearrangement and acid-induced oligomerization of T domain.</bibo:abstract>
+  <core:publishedInTitle>Biochemistry</core:publishedInTitle>
+  <core:publishedIn rdf:resource="http://experts.kumc.edu/en/publications/1552-Biochemistry"/>
+  <core:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2014</core:year>
+  <bibo:pageStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6849</bibo:pageStart>
+  <bibo:pageEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6856</bibo:pageEnd>
+  <bibo:doi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">---
+- 10.1021/bi500893y
+- http://www.ncbi.nlm.nih.gov/pubmed/25290210
+</bibo:doi>
+  <core:localLibraryLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Hydrogen-Deuterium+Exchange+and+Mass+Spectrometry+Reveal+the+pH-Dependent+Conformational+Changes+of+Diphtheria+Toxin+T+Domain&amp;amp;rft.jtitle=Biochemistry&amp;amp;rft.issn=15204995&amp;amp;rft.date=2014&amp;amp;rft.volume=53&amp;amp;rft.issue=43&amp;amp;rft.spage=6849&amp;amp;rft.epage=6856&amp;amp;rft.au=Li,%20Jing&amp;amp;rft.au=Rodnin,%20Mykola%20V&amp;amp;rft.au=Ladokhin,%20Alexey%20S&amp;amp;rft.au=Gross,%20Michael%20L."&gt;Find It @KUMC&lt;/a&gt;</core:localLibraryLink>
+  <bibo:coins rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Hydrogen-Deuterium+Exchange+and+Mass+Spectrometry+Reveal+the+pH-Dependent+Conformational+Changes+of+Diphtheria+Toxin+T+Domain&amp;amp;rft.jtitle=Biochemistry&amp;amp;rft.issn=15204995&amp;amp;rft.date=2014&amp;amp;rft.volume=53&amp;amp;rft.issue=43&amp;amp;rft.spage=6849&amp;amp;rft.epage=6856&amp;amp;rft.au=Li,%20Jing&amp;amp;rft.au=Rodnin,%20Mykola%20V&amp;amp;rft.au=Ladokhin,%20Alexey%20S&amp;amp;rft.au=Gross,%20Michael%20L.</bibo:coins>
+  <vitro:timekey rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-12 18:33:13 UTC</vitro:timekey>
+  <vitro:modTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-12 18:33:14 UTC</vitro:modTime>
+  <core:informationResourceInAuthorship rdf:resource="http://experts.kumc.edu/en/works/40316#Authorship"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/40316#Authorship">
+  <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+  <core:linkedInformationResource rdf:resource="http://experts.kumc.edu/en/works/40316"/>
+  <core:linkedAuthor rdf:resource="http://experts.kumc.edu/en/people/306-Alexey_Ladokhin"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/40008">
+  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  <bibo:authorList>
+    <rdf:Seq>
+      <rdf:li>Qi, Yunpeng</rdf:li>
+      <rdf:li>Jiang, Changtao</rdf:li>
+      <rdf:li>Cheng, Jie</rdf:li>
+      <rdf:li>Krausz, Kristopher W</rdf:li>
+      <rdf:li>Li Tiangang</rdf:li>
+      <rdf:li>Ferrell, Jessica M.</rdf:li>
+      <rdf:li>Gonzalez, Frank J</rdf:li>
+      <rdf:li>Chiang John Y L</rdf:li>
+    </rdf:Seq>
+  </bibo:authorList>
+  <core:title>Bile acid signaling in lipid metabolism: Metabolomic and lipidomic analysis of lipid and bile acid markers linked to anti-obesity and anti-diabetes in mice</core:title>
+  <bibo:abstract>Bile acid synthesis is the major pathway for catabolism of cholesterol. Cholesterol 7α-hydroxylase (CYP7A1) is the rate-limiting enzyme in the bile acid biosynthetic pathway in the liver and plays an important role in regulating lipid, glucose and energy metabolism. Transgenic mice overexpressing CYP7A1 (CYP7A1-tg mice) were resistant to high-fat diet (HFD)-induced obesity, fatty liver, and diabetes. However the mechanism of resistance to HFD-induced obesity of CYP7A1-tg mice has not been determined. In this study, metabolomic and lipidomic profiles of CYP7A1-tg mice were analyzed to explore the metabolic alterations in CYP7A1-tg mice that govern the protection against obesity and insulin resistance by using ultra-performance liquid chromatography-coupled with electrospray ionization quadrupole time-of-flight mass spectrometry combined with multivariate analyses. Lipidomics analysis identified seven lipid markers including lysophosphatidylcholines, phosphatidylcholines, sphingomyelins and ceramides that were significantly decreased in serum of HFD-fed CYP7A1-tg mice. Metabolomics analysis identified 13 metabolites in bile acid synthesis including taurochenodeoxycholic acid, taurodeoxycholic acid, tauroursodeoxycholic acid, taurocholic acid, and tauro-β-muricholic acid (T-β-MCA) that differed between CYP7A1-tg and wild-type mice. Notably, T-β-MCA, an antagonist of the farnesoid X receptor (FXR) was significantly increased in intestine of CYP7A1-tg mice. This study suggests that reducing 12α-hydroxylated bile acids and increasing intestinal T-β-MCA may reduce high fat diet-induced increase of phospholipids, sphingomyelins and ceramides, and ameliorate diabetes and obesity. This article is part of a Special Issue entitled Linking transcription to physiology in lipodomics.</bibo:abstract>
+  <core:publishedInTitle>Biochimica et biophysica acta</core:publishedInTitle>
+  <core:publishedIn rdf:resource="http://experts.kumc.edu/en/publications/460-Biochimica_et_biophysica_acta"/>
+  <core:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2014</core:year>
+  <bibo:doi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">---
+- 10.1016/j.bbalip.2014.04.008
+- http://www.ncbi.nlm.nih.gov/pubmed/24796972
+</bibo:doi>
+  <core:localLibraryLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Bile+acid+signaling+in+lipid+metabolism%3A+Metabolomic+and+lipidomic+analysis+of+lipid+and+bile+acid+markers+linked+to+anti-obesity+and+anti-diabetes+in+mice&amp;amp;rft.jtitle=Biochimica+et+biophysica+acta&amp;amp;rft.issn=00063002&amp;amp;rft.date=2014&amp;amp;rft.volume=&amp;amp;rft.issue=&amp;amp;rft.spage=&amp;amp;rft.epage=&amp;amp;rft.au=Qi,%20Yunpeng&amp;amp;rft.au=Jiang,%20Changtao&amp;amp;rft.au=Cheng,%20Jie&amp;amp;rft.au=Krausz,%20Kristopher%20W&amp;amp;rft.au=Li%20Tiangang&amp;amp;rft.au=Ferrell,%20Jessica%20M.&amp;amp;rft.au=Gonzalez,%20Frank%20J&amp;amp;rft.au=Chiang%20John%20Y%20L"&gt;Find It @KUMC&lt;/a&gt;</core:localLibraryLink>
+  <bibo:coins rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Bile+acid+signaling+in+lipid+metabolism%3A+Metabolomic+and+lipidomic+analysis+of+lipid+and+bile+acid+markers+linked+to+anti-obesity+and+anti-diabetes+in+mice&amp;amp;rft.jtitle=Biochimica+et+biophysica+acta&amp;amp;rft.issn=00063002&amp;amp;rft.date=2014&amp;amp;rft.volume=&amp;amp;rft.issue=&amp;amp;rft.spage=&amp;amp;rft.epage=&amp;amp;rft.au=Qi,%20Yunpeng&amp;amp;rft.au=Jiang,%20Changtao&amp;amp;rft.au=Cheng,%20Jie&amp;amp;rft.au=Krausz,%20Kristopher%20W&amp;amp;rft.au=Li%20Tiangang&amp;amp;rft.au=Ferrell,%20Jessica%20M.&amp;amp;rft.au=Gonzalez,%20Frank%20J&amp;amp;rft.au=Chiang%20John%20Y%20L</bibo:coins>
+  <vitro:timekey rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-14 19:34:39 UTC</vitro:timekey>
+  <vitro:modTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-14 19:34:41 UTC</vitro:modTime>
+  <core:informationResourceInAuthorship rdf:resource="http://experts.kumc.edu/en/works/40008#Authorship"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/40008#Authorship">
+  <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+  <core:linkedInformationResource rdf:resource="http://experts.kumc.edu/en/works/40008"/>
+  <core:linkedAuthor rdf:resource="http://experts.kumc.edu/en/people/1377-Tiangang_Li"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/37497">
+  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  <bibo:authorList>
+    <rdf:Seq>
+      <rdf:li>Lee, Yingying</rdf:li>
+      <rdf:li>Villar, Maria T</rdf:li>
+      <rdf:li>Artigues, Antonio</rdf:li>
+      <rdf:li>Beamer, Lesa J</rdf:li>
+    </rdf:Seq>
+  </bibo:authorList>
+  <core:title>Promotion of Enzyme Flexibility by Dephosphorylation and Coupling to the Catalytic Mechanism of a Phosphohexomutase</core:title>
+  <bibo:abstract>The enzyme phosphomannomutase/phosphoglucomutase (PMM/PGM) from Pseudomonas aeruginosa catalyzes an intramolecular phosphoryl transfer across its phosphosugar substrates, which are precursors in the synthesis of exoproducts involved in bacterial virulence. Previous structural studies of PMM/PGM have established a key role for conformational change in its multi-step reaction, which requires a dramatic 180 ° reorientation of the intermediate within the active site. Here hydrogen-deuterium exchange by mass spectrometry (HDXMS) and small angle X-ray scattering (SAXS) are used to probe the conformational flexibility of different forms of PMM/PGM in solution, including its active, phosphorylated state and also the unphosphorylated state that occurs transiently during the catalytic cycle. In addition, the effects of ligand binding were assessed through use of a substrate analog. We find that both phosphorylation and binding of ligand produce significant effects on deuterium incorporation. Phosphorylation of the conserved catalytic serine has broad effects on residues in multiple domains, and is supported by SAXS data showing that the unphosphorylated enzyme is less compact in solution. The effects of ligand binding are generally manifested near the active site cleft and at a domain interface that is a site of conformational change. These results suggest that dephosphorylation of the enzyme may play two critical functional roles: a direct one in the chemical step of phosphoryl transfer and secondly through propagation of structural flexibility. We propose a model whereby increased enzyme flexibility facilitates the reorientation of the reaction intermediate, coupling changes in structural dynamics with the unique catalytic mechanism of this enzyme.</bibo:abstract>
+  <core:publishedInTitle>The Journal of biological chemistry</core:publishedInTitle>
+  <core:publishedIn rdf:resource="http://experts.kumc.edu/en/publications/2072-The_Journal_of_biological_chemistry"/>
+  <core:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2014</core:year>
+  <bibo:doi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">---
+- 10.1074/jbc.M113.532226
+- http://www.ncbi.nlm.nih.gov/pubmed/24403075
+</bibo:doi>
+  <core:localLibraryLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Promotion+of+Enzyme+Flexibility+by+Dephosphorylation+and+Coupling+to+the+Catalytic+Mechanism+of+a+Phosphohexomutase&amp;amp;rft.jtitle=The+Journal+of+biological+chemistry&amp;amp;rft.issn=1083351X&amp;amp;rft.date=2014&amp;amp;rft.volume=&amp;amp;rft.issue=&amp;amp;rft.spage=&amp;amp;rft.epage=&amp;amp;rft.au=Lee,%20Yingying&amp;amp;rft.au=Villar,%20Maria%20T&amp;amp;rft.au=Artigues,%20Antonio&amp;amp;rft.au=Beamer,%20Lesa%20J"&gt;Find It @KUMC&lt;/a&gt;</core:localLibraryLink>
+  <bibo:coins rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Promotion+of+Enzyme+Flexibility+by+Dephosphorylation+and+Coupling+to+the+Catalytic+Mechanism+of+a+Phosphohexomutase&amp;amp;rft.jtitle=The+Journal+of+biological+chemistry&amp;amp;rft.issn=1083351X&amp;amp;rft.date=2014&amp;amp;rft.volume=&amp;amp;rft.issue=&amp;amp;rft.spage=&amp;amp;rft.epage=&amp;amp;rft.au=Lee,%20Yingying&amp;amp;rft.au=Villar,%20Maria%20T&amp;amp;rft.au=Artigues,%20Antonio&amp;amp;rft.au=Beamer,%20Lesa%20J</bibo:coins>
+  <vitro:timekey rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-02-04 23:03:20 UTC</vitro:timekey>
+  <vitro:modTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-02-04 23:05:04 UTC</vitro:modTime>
+  <core:informationResourceInAuthorship rdf:resource="http://experts.kumc.edu/en/works/37497#Authorship"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/37497#Authorship">
+  <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+  <core:linkedInformationResource rdf:resource="http://experts.kumc.edu/en/works/37497"/>
+  <core:linkedAuthor rdf:resource="http://experts.kumc.edu/en/people/282-Antonio_Artigues"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/37492">
+  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  <bibo:authorList>
+    <rdf:Seq>
+      <rdf:li>Holyoak, Todd</rdf:li>
+      <rdf:li>Zhang, Bing</rdf:li>
+      <rdf:li>Deng, Junpeng</rdf:li>
+      <rdf:li>Tang, Qingling</rdf:li>
+      <rdf:li>Prasannan,Charulata B</rdf:li>
+      <rdf:li>Fenton, Aron W</rdf:li>
+    </rdf:Seq>
+  </bibo:authorList>
+  <core:title>Energetic coupling between an oxidizable cysteine and the phosphorylatable N-terminus of human liver pyruvate kinase</core:title>
+  <bibo:abstract>During our efforts to characterize the regulatory properties of human liver pyruvate kinase (L-PYK), we have noted that the affinity of the protein for phosphoenolpyruvate (PEP) becomes reduced several days after cell lysis. A 1.8 Å crystallographic structure of L-PYK with the S12D mimic of phosphorylation indicates that Cys436 is oxidized, the first potential insight into explaining the effect of &amp;quot;aging&amp;quot;. Interestingly, the oxidation is only to sulfenic acid despite the crystal growth time period of 2 weeks. Mutagenesis confirms that the side chain of residue 436 is energetically coupled to PEP binding. Mass spectrometry confirms that the oxidation is present in solution and is not an artifact caused by X-ray exposure. Exposure of the L-PYK mutations to H₂O₂ also confirms that PEP affinity is sensitive to the nature of the side chain at position 436. A 1.95 Å structure of the C436M mutant of L-PYK, the only mutation at position 436 that has been shown to strengthen PEP affinity, revealed that the methionine substitution results in the ordering of several N-terminal residues that have not been ordered in previous structures. This result allowed speculation that oxidation of Cys436 and phosphorylation of the N-terminus at Ser12 may function through a similar mechanism, namely the interruption of an activating interaction between the nonphosphorylated N-terminus with the nonoxidized main body of the protein. Mutant cycles were used to provide evidence that mutations of Cys436 are energetically synergistic with N-terminal modifications, a result that is consistent with phosphorylation of the N-terminus and oxidation of Cys436 functioning through mechanisms with common features. Alanine-scanning mutagenesis was used to confirm that the newly ordered N-terminal residues were important to the regulation of enzyme function by the N-terminus of the enzyme (i.e., not an artifact caused by the introduced methionine substitution) and to further define which residues in the N-terminus are energetically coupled to PEP affinity. Collectively, these studies indicate energetic coupling (and potentially mechanistic similarities) between the oxidation of Cys436 and phosphorylation of Ser12 in the N-terminus of L-PYK.</bibo:abstract>
+  <core:publishedInTitle>Biochemistry</core:publishedInTitle>
+  <core:publishedIn rdf:resource="http://experts.kumc.edu/en/publications/1552-Biochemistry"/>
+  <core:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2013</core:year>
+  <bibo:pageStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">466</bibo:pageStart>
+  <bibo:pageEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">476</bibo:pageEnd>
+  <bibo:doi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">---
+- 10.1021/bi301341r
+- http://www.ncbi.nlm.nih.gov/pubmed/23270483
+</bibo:doi>
+  <core:localLibraryLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Energetic+coupling+between+an+oxidizable+cysteine+and+the+phosphorylatable+N-terminus+of+human+liver+pyruvate+kinase&amp;amp;rft.jtitle=Biochemistry&amp;amp;rft.issn=15204995&amp;amp;rft.date=2013&amp;amp;rft.volume=52&amp;amp;rft.issue=3&amp;amp;rft.spage=466&amp;amp;rft.epage=476&amp;amp;rft.au=Holyoak,%20Todd&amp;amp;rft.au=Zhang,%20Bing&amp;amp;rft.au=Deng,%20Junpeng&amp;amp;rft.au=Tang,%20Qingling&amp;amp;rft.au=Prasannan,Charulata%20B&amp;amp;rft.au=Fenton,%20Aron%20W"&gt;Find It @KUMC&lt;/a&gt;</core:localLibraryLink>
+  <bibo:coins rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Energetic+coupling+between+an+oxidizable+cysteine+and+the+phosphorylatable+N-terminus+of+human+liver+pyruvate+kinase&amp;amp;rft.jtitle=Biochemistry&amp;amp;rft.issn=15204995&amp;amp;rft.date=2013&amp;amp;rft.volume=52&amp;amp;rft.issue=3&amp;amp;rft.spage=466&amp;amp;rft.epage=476&amp;amp;rft.au=Holyoak,%20Todd&amp;amp;rft.au=Zhang,%20Bing&amp;amp;rft.au=Deng,%20Junpeng&amp;amp;rft.au=Tang,%20Qingling&amp;amp;rft.au=Prasannan,Charulata%20B&amp;amp;rft.au=Fenton,%20Aron%20W</bibo:coins>
+  <vitro:timekey rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-02-04 22:51:27 UTC</vitro:timekey>
+  <vitro:modTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-02-04 22:55:29 UTC</vitro:modTime>
+  <core:informationResourceInAuthorship rdf:resource="http://experts.kumc.edu/en/works/37492#Authorship"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/37492#Authorship">
+  <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+  <core:linkedInformationResource rdf:resource="http://experts.kumc.edu/en/works/37492"/>
+  <core:linkedAuthor rdf:resource="http://experts.kumc.edu/en/people/284-Aron_Fenton"/>
+  <core:linkedAuthor rdf:resource="http://experts.kumc.edu/en/people/303-Todd_Holyoak"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/37491">
+  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  <bibo:authorList>
+    <rdf:Seq>
+      <rdf:li>Prasannan,Charulata B</rdf:li>
+      <rdf:li>Villar, Maria T</rdf:li>
+      <rdf:li>Artigues, Antonio</rdf:li>
+      <rdf:li>Fenton, Aron W</rdf:li>
+    </rdf:Seq>
+  </bibo:authorList>
+  <core:title>Identification of regions of rabbit muscle pyruvate kinase important for allosteric regulation by phenylalanine, detected by H/D exchange mass spectrometry</core:title>
+  <bibo:abstract>Mass spectrometry has been used to determine the number of exchangeable backbone amide protons and the associated rate constants that are altered when rabbit muscle pyruvate kinase (rM1-PYK) binds either the allosteric inhibitor (phenylalanine) or a nonallosteric analogue of the inhibitor. Alanine is used as the nonallosteric analogue because it binds competitively with phenylalanine but elicits a negligible allosteric inhibition, i.e., a negligible reduction in the affinity of rM1-PYK for the substrate, phosphoenolpyruvate. This experimental design is expected to distinguish changes in the protein caused by effector binding (i.e., those changes common upon the addition of alanine vs phenylalanine) from changes associated with allosteric regulation (i.e., those elicited by the addition of phenylalanine binding, but not alanine binding). High-quality peptic fragments covering 98% of the protein were identified. Changes in both the number of exchangeable protons per peptide and in the rate constant associated with exchange highlight regions of the protein with allosteric roles. The set of allosterically relevant peptides identified by this technique includes residues previously identified by mutagenesis to have roles in allosteric regulation by phenylalanine.</bibo:abstract>
+  <core:publishedInTitle>Biochemistry</core:publishedInTitle>
+  <core:publishedIn rdf:resource="http://experts.kumc.edu/en/publications/1552-Biochemistry"/>
+  <core:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2013</core:year>
+  <bibo:pageStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1998</bibo:pageStart>
+  <bibo:pageEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2006</bibo:pageEnd>
+  <bibo:doi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">---
+- 10.1021/bi400117q
+- http://www.ncbi.nlm.nih.gov/pubmed/23418858
+</bibo:doi>
+  <core:localLibraryLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Identification+of+regions+of+rabbit+muscle+pyruvate+kinase+important+for+allosteric+regulation+by+phenylalanine%2C+detected+by+H%2FD+exchange+mass+spectrometry&amp;amp;rft.jtitle=Biochemistry&amp;amp;rft.issn=15204995&amp;amp;rft.date=2013&amp;amp;rft.volume=52&amp;amp;rft.issue=11&amp;amp;rft.spage=1998&amp;amp;rft.epage=2006&amp;amp;rft.au=Prasannan,Charulata%20B&amp;amp;rft.au=Villar,%20Maria%20T&amp;amp;rft.au=Artigues,%20Antonio&amp;amp;rft.au=Fenton,%20Aron%20W"&gt;Find It @KUMC&lt;/a&gt;</core:localLibraryLink>
+  <bibo:coins rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Identification+of+regions+of+rabbit+muscle+pyruvate+kinase+important+for+allosteric+regulation+by+phenylalanine%2C+detected+by+H%2FD+exchange+mass+spectrometry&amp;amp;rft.jtitle=Biochemistry&amp;amp;rft.issn=15204995&amp;amp;rft.date=2013&amp;amp;rft.volume=52&amp;amp;rft.issue=11&amp;amp;rft.spage=1998&amp;amp;rft.epage=2006&amp;amp;rft.au=Prasannan,Charulata%20B&amp;amp;rft.au=Villar,%20Maria%20T&amp;amp;rft.au=Artigues,%20Antonio&amp;amp;rft.au=Fenton,%20Aron%20W</bibo:coins>
+  <vitro:timekey rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-02-04 22:51:23 UTC</vitro:timekey>
+  <vitro:modTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-02-04 22:55:31 UTC</vitro:modTime>
+  <core:informationResourceInAuthorship rdf:resource="http://experts.kumc.edu/en/works/37491#Authorship"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/37491#Authorship">
+  <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+  <core:linkedInformationResource rdf:resource="http://experts.kumc.edu/en/works/37491"/>
+  <core:linkedAuthor rdf:resource="http://experts.kumc.edu/en/people/282-Antonio_Artigues"/>
+  <core:linkedAuthor rdf:resource="http://experts.kumc.edu/en/people/284-Aron_Fenton"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/35941">
+  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  <bibo:authorList>
+    <rdf:Seq>
+      <rdf:li>Lassen, Stephan</rdf:li>
+      <rdf:li>Wiebring, Annika</rdf:li>
+      <rdf:li>Helmholz, Heike</rdf:li>
+      <rdf:li>Ruhnau, Christiane</rdf:li>
+      <rdf:li>Prange, Andreas</rdf:li>
+    </rdf:Seq>
+  </bibo:authorList>
+  <core:title>Isolation of a Nav channel blocking polypeptide from Cyanea capillata medusae - a neurotoxin contained in fishing tentacle isorhizas</core:title>
+  <bibo:abstract>Jellyfish are efficient predators which prey on crabs, fish larvae, and small fish. Their venoms consist of various toxins including neurotoxins that paralyse prey organisms immediately. One possible mode of action of neurotoxins is the blockage of voltage-gated sodium (Na(v)) channels. A novel polypeptide with Na(v) channel blocking activity was isolated from the northern Scyphozoa Cyanea capillata (L., 1758). For that purpose, a bioactivity-guided multidimensional liquid chromatographic purification method has been developed. A neurotoxic activity of resulting chromatographic fractions was demonstrated by a bioassay, which based on the mouse neuroblastoma cell line Neuro2A. The purification process yielded one fraction containing a single polypeptide with proven activity. The molecular weight of 8.22 kDa was determined by matrix-assisted laser desorption time-of-flight mass spectrometry (MALDI-ToF MS). Utilising Laser Microdissection and Pressure Catapulting (LMPC) for the separation of different nematocyst types in combination with direct MALDI-ToF MS analysis of the intact capsules, the neurotoxin was found to be present in all types of fishing tentacle isorhizas (A-isorhizas, a-isorhizas, O-isorhizas) of C. capillata medusae.</bibo:abstract>
+  <core:publishedInTitle>Toxicon : official journal of the International Society on Toxinology</core:publishedInTitle>
+  <core:publishedIn rdf:resource="http://experts.kumc.edu/en/publications/13013-Toxicon__official_journal_of_the_International_Society_on_Toxinology"/>
+  <core:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2012</core:year>
+  <bibo:pageStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">610</bibo:pageStart>
+  <bibo:pageEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</bibo:pageEnd>
+  <bibo:doi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">--- 
+- S0041-0101(12)00043-8 [pii]
+- 10.1016/j.toxicon.2012.02.004 [doi]
+</bibo:doi>
+  <core:localLibraryLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Isolation+of+a+Nav+channel+blocking+polypeptide+from+Cyanea+capillata+medusae+-+a+neurotoxin+contained+in+fishing+tentacle+isorhizas&amp;amp;rft.jtitle=Toxicon+%3A+official+journal+of+the+International+Society+on+Toxinology&amp;amp;rft.issn=18793150&amp;amp;rft.date=2012-05&amp;amp;rft.volume=59&amp;amp;rft.issue=6&amp;amp;rft.spage=610&amp;amp;rft.epage=6&amp;amp;rft.au=Lassen,%20Stephan&amp;amp;rft.au=Wiebring,%20Annika&amp;amp;rft.au=Helmholz,%20Heike&amp;amp;rft.au=Ruhnau,%20Christiane&amp;amp;rft.au=Prange,%20Andreas"&gt;Find It @KUMC&lt;/a&gt;</core:localLibraryLink>
+  <bibo:coins rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Isolation+of+a+Nav+channel+blocking+polypeptide+from+Cyanea+capillata+medusae+-+a+neurotoxin+contained+in+fishing+tentacle+isorhizas&amp;amp;rft.jtitle=Toxicon+%3A+official+journal+of+the+International+Society+on+Toxinology&amp;amp;rft.issn=18793150&amp;amp;rft.date=2012-05&amp;amp;rft.volume=59&amp;amp;rft.issue=6&amp;amp;rft.spage=610&amp;amp;rft.epage=6&amp;amp;rft.au=Lassen,%20Stephan&amp;amp;rft.au=Wiebring,%20Annika&amp;amp;rft.au=Helmholz,%20Heike&amp;amp;rft.au=Ruhnau,%20Christiane&amp;amp;rft.au=Prange,%20Andreas</bibo:coins>
+  <vitro:timekey rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-17 06:40:26 UTC</vitro:timekey>
+  <vitro:modTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-17 06:40:28 UTC</vitro:modTime>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/35941#Authorship">
+  <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+  <core:linkedInformationResource rdf:resource="http://experts.kumc.edu/en/works/35941"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/35847">
+  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  <bibo:authorList>
+    <rdf:Seq>
+      <rdf:li>Zimmerman, Michelle K</rdf:li>
+      <rdf:li>Kumar, Vivek</rdf:li>
+      <rdf:li>Maine, Gabriel N</rdf:li>
+      <rdf:li>Sykes, Elizabeth</rdf:li>
+    </rdf:Seq>
+  </bibo:authorList>
+  <core:title>Discrepant intact parathyroid hormone result by immunoassay</core:title>
+  <core:publishedInTitle>Unknown (1873-3492)</core:publishedInTitle>
+  <core:publishedIn rdf:resource="http://experts.kumc.edu/en/publications/12982-Unknown_18733492"/>
+  <core:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2012</core:year>
+  <bibo:pageStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">344</bibo:pageStart>
+  <bibo:pageEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</bibo:pageEnd>
+  <bibo:doi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">--- 
+- S0009-8981(11)00505-5 [pii]
+- 10.1016/j.cca.2011.09.019 [doi]
+</bibo:doi>
+  <core:localLibraryLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Discrepant+intact+parathyroid+hormone+result+by+immunoassay&amp;amp;rft.jtitle=Unknown+%281873-3492%29&amp;amp;rft.issn=18733492&amp;amp;rft.date=2012-01-18&amp;amp;rft.volume=413&amp;amp;rft.issue=1-2&amp;amp;rft.spage=344&amp;amp;rft.epage=5&amp;amp;rft.au=Zimmerman,%20Michelle%20K&amp;amp;rft.au=Kumar,%20Vivek&amp;amp;rft.au=Maine,%20Gabriel%20N&amp;amp;rft.au=Sykes,%20Elizabeth"&gt;Find It @KUMC&lt;/a&gt;</core:localLibraryLink>
+  <bibo:coins rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Discrepant+intact+parathyroid+hormone+result+by+immunoassay&amp;amp;rft.jtitle=Unknown+%281873-3492%29&amp;amp;rft.issn=18733492&amp;amp;rft.date=2012-01-18&amp;amp;rft.volume=413&amp;amp;rft.issue=1-2&amp;amp;rft.spage=344&amp;amp;rft.epage=5&amp;amp;rft.au=Zimmerman,%20Michelle%20K&amp;amp;rft.au=Kumar,%20Vivek&amp;amp;rft.au=Maine,%20Gabriel%20N&amp;amp;rft.au=Sykes,%20Elizabeth</bibo:coins>
+  <vitro:timekey rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-17 06:00:32 UTC</vitro:timekey>
+  <vitro:modTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-17 06:00:34 UTC</vitro:modTime>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/35847#Authorship">
+  <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+  <core:linkedInformationResource rdf:resource="http://experts.kumc.edu/en/works/35847"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/35791">
+  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  <bibo:authorList>
+    <rdf:Seq>
+      <rdf:li>Bokatzian-Johnson, Samantha S</rdf:li>
+      <rdf:li>Stover, Michele L</rdf:li>
+      <rdf:li>Dixon, David A</rdf:li>
+      <rdf:li>Cassady, Carolyn J</rdf:li>
+    </rdf:Seq>
+  </bibo:authorList>
+  <core:title>A comparison of the effects of amide and acid groups at the C-terminus on the collision-induced dissociation of deprotonated peptides</core:title>
+  <bibo:abstract>The dissociative behavior of peptide amides and free acids was explored using low-energy collision-induced dissociation and high level computational theory. Both positive and negative ion modes were utilized, but the most profound differences were observed for the deprotonated species. Deprotonated peptide amides produce a characteristic c(m-2)(-) product ion (where m is the number of residues in the peptide) that is either absent or in low abundance in the analogous peptide acid spectrum. Peptide acids show an enhanced formation of c(m-3)(-); however, this is not generally as pronounced as c(m-2)(-) production from amides. The most notable occurrence of an amide-specific product ion is for laminin amide (YIGSR-NH(2)) and this case was investigated using several modified peptides. Mechanisms involving 6- and 9-membered ring formation were proposed, and their energetic properties were investigated using G3(MP2) molecular orbital theory calculations. For example, with C-terminal deprotonation of pentaglycine amide, formation of c(m-2)(-) and a 6-membered ring diketopiperazine neutral requires &amp;gt;31.6 kcal/mol, which is 26.1 kcal/mol less than the analogous process involving the peptide acid. The end group specific fragmentation of peptide amides in the negative ion mode may be useful for identifying such groups in proteomic applications.</bibo:abstract>
+  <core:publishedInTitle>Journal of the American Society for Mass Spectrometry</core:publishedInTitle>
+  <core:publishedIn rdf:resource="http://experts.kumc.edu/en/publications/9875-Journal_of_the_American_Society_for_Mass_Spectrometry"/>
+  <core:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2012</core:year>
+  <bibo:pageStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1544</bibo:pageStart>
+  <bibo:pageEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">57</bibo:pageEnd>
+  <bibo:doi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1007/s13361-012-0431-x [doi]</bibo:doi>
+  <core:localLibraryLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=A+comparison+of+the+effects+of+amide+and+acid+groups+at+the+C-terminus+on+the+collision-induced+dissociation+of+deprotonated+peptides&amp;amp;rft.jtitle=Journal+of+the+American+Society+for+Mass+Spectrometry&amp;amp;rft.issn=18791123&amp;amp;rft.date=2012-09&amp;amp;rft.volume=23&amp;amp;rft.issue=9&amp;amp;rft.spage=1544&amp;amp;rft.epage=57&amp;amp;rft.au=Bokatzian-Johnson,%20Samantha%20S&amp;amp;rft.au=Stover,%20Michele%20L&amp;amp;rft.au=Dixon,%20David%20A&amp;amp;rft.au=Cassady,%20Carolyn%20J"&gt;Find It @KUMC&lt;/a&gt;</core:localLibraryLink>
+  <bibo:coins rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=A+comparison+of+the+effects+of+amide+and+acid+groups+at+the+C-terminus+on+the+collision-induced+dissociation+of+deprotonated+peptides&amp;amp;rft.jtitle=Journal+of+the+American+Society+for+Mass+Spectrometry&amp;amp;rft.issn=18791123&amp;amp;rft.date=2012-09&amp;amp;rft.volume=23&amp;amp;rft.issue=9&amp;amp;rft.spage=1544&amp;amp;rft.epage=57&amp;amp;rft.au=Bokatzian-Johnson,%20Samantha%20S&amp;amp;rft.au=Stover,%20Michele%20L&amp;amp;rft.au=Dixon,%20David%20A&amp;amp;rft.au=Cassady,%20Carolyn%20J</bibo:coins>
+  <vitro:timekey rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-17 05:54:34 UTC</vitro:timekey>
+  <vitro:modTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-17 05:54:37 UTC</vitro:modTime>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/35791#Authorship">
+  <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+  <core:linkedInformationResource rdf:resource="http://experts.kumc.edu/en/works/35791"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/35763">
+  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  <bibo:authorList>
+    <rdf:Seq>
+      <rdf:li>Rashid, S Tamir</rdf:li>
+      <rdf:li>Humphries, Jonathan D</rdf:li>
+      <rdf:li>Byron, Adam</rdf:li>
+      <rdf:li>Dhar, Ameet</rdf:li>
+      <rdf:li>Askari, Janet A</rdf:li>
+      <rdf:li>Selley, Julian N</rdf:li>
+      <rdf:li>Knight, David</rdf:li>
+      <rdf:li>Goldin, Robert D</rdf:li>
+      <rdf:li>Thursz, Mark</rdf:li>
+      <rdf:li>Humphries, Martin J</rdf:li>
+    </rdf:Seq>
+  </bibo:authorList>
+  <core:title>Proteomic analysis of extracellular matrix from the hepatic stellate cell line LX-2 identifies CYR61 and Wnt-5a as novel constituents of fibrotic liver</core:title>
+  <bibo:abstract>Activation of hepatic stellate cells (HSCs) and subsequent uncontrolled accumulation of altered extracellular matrix (ECM) underpin liver fibrosis, a wound healing response to chronic injury, which can lead to organ failure and death. We sought to catalogue the components of fibrotic liver ECM to obtain insights into disease etiology and aid identification of new biomarkers. Cell-derived ECM was isolated from the HSC line LX-2, an in vitro model of liver fibrosis, and compared to ECM from human foreskin fibroblasts (HFFs) as a control. Mass spectrometry analyses of cell-derived ECMs identified, with &amp;gt;/=99% confidence, 61 structural ECM or secreted proteins (48 and 31 proteins for LX-2 and HFF, respectively). Gene ontology enrichment analysis confirmed the enrichment of ECM proteins, and hierarchical clustering coupled with protein-protein interaction network analysis revealed a subset of proteins enriched to fibrotic ECM, highlighting the existence of cell type-specific ECM niches. Thirty-six proteins were enriched to LX-2 ECM as compared to HFF ECM, of which Wnt-5a and CYR61 were validated by immunohistochemistry in human and murine fibrotic liver tissue. Future studies will determine if these and other components may play a role in the etiology of hepatic fibrosis, serve as novel disease biomarkers, or open up new avenues for drug discovery.</bibo:abstract>
+  <core:publishedInTitle>Journal of proteome research</core:publishedInTitle>
+  <core:publishedIn rdf:resource="http://experts.kumc.edu/en/publications/3793-Journal_of_proteome_research"/>
+  <core:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2012</core:year>
+  <bibo:pageStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4052</bibo:pageStart>
+  <bibo:pageEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int">64</bibo:pageEnd>
+  <bibo:doi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1021/pr3000927 [doi]</bibo:doi>
+  <core:localLibraryLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Proteomic+analysis+of+extracellular+matrix+from+the+hepatic+stellate+cell+line+LX-2+identifies+CYR61+and+Wnt-5a+as+novel+constituents+of+fibrotic+liver&amp;amp;rft.jtitle=Journal+of+proteome+research&amp;amp;rft.issn=15353907&amp;amp;rft.date=2012-08-03&amp;amp;rft.volume=11&amp;amp;rft.issue=8&amp;amp;rft.spage=4052&amp;amp;rft.epage=64&amp;amp;rft.au=Rashid,%20S%20Tamir&amp;amp;rft.au=Humphries,%20Jonathan%20D&amp;amp;rft.au=Byron,%20Adam&amp;amp;rft.au=Dhar,%20Ameet&amp;amp;rft.au=Askari,%20Janet%20A&amp;amp;rft.au=Selley,%20Julian%20N&amp;amp;rft.au=Knight,%20David&amp;amp;rft.au=Goldin,%20Robert%20D&amp;amp;rft.au=Thursz,%20Mark&amp;amp;rft.au=Humphries,%20Martin%20J"&gt;Find It @KUMC&lt;/a&gt;</core:localLibraryLink>
+  <bibo:coins rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Proteomic+analysis+of+extracellular+matrix+from+the+hepatic+stellate+cell+line+LX-2+identifies+CYR61+and+Wnt-5a+as+novel+constituents+of+fibrotic+liver&amp;amp;rft.jtitle=Journal+of+proteome+research&amp;amp;rft.issn=15353907&amp;amp;rft.date=2012-08-03&amp;amp;rft.volume=11&amp;amp;rft.issue=8&amp;amp;rft.spage=4052&amp;amp;rft.epage=64&amp;amp;rft.au=Rashid,%20S%20Tamir&amp;amp;rft.au=Humphries,%20Jonathan%20D&amp;amp;rft.au=Byron,%20Adam&amp;amp;rft.au=Dhar,%20Ameet&amp;amp;rft.au=Askari,%20Janet%20A&amp;amp;rft.au=Selley,%20Julian%20N&amp;amp;rft.au=Knight,%20David&amp;amp;rft.au=Goldin,%20Robert%20D&amp;amp;rft.au=Thursz,%20Mark&amp;amp;rft.au=Humphries,%20Martin%20J</bibo:coins>
+  <vitro:timekey rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-17 05:51:57 UTC</vitro:timekey>
+  <vitro:modTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-17 05:51:59 UTC</vitro:modTime>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/35763#Authorship">
+  <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+  <core:linkedInformationResource rdf:resource="http://experts.kumc.edu/en/works/35763"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/35712">
+  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+  <bibo:authorList>
+    <rdf:Seq>
+      <rdf:li>Steenhard, Brooke M</rdf:li>
+      <rdf:li>Vanacore, Roberto</rdf:li>
+      <rdf:li>Friedman, David</rdf:li>
+      <rdf:li>Zelenchuk, Adrian</rdf:li>
+      <rdf:li>Stroganova, Larysa</rdf:li>
+      <rdf:li>Isom, Kathryn</rdf:li>
+      <rdf:li>St John, Patricia L</rdf:li>
+      <rdf:li>Hudson, Billy G</rdf:li>
+      <rdf:li>Abrahamson, Dale R</rdf:li>
+    </rdf:Seq>
+  </bibo:authorList>
+  <core:title>Upregulated expression of integrin alpha1 in mesangial cells and integrin alpha3 and vimentin in podocytes of Col4a3-null (Alport) mice</core:title>
+  <bibo:abstract>Alport disease in humans, which usually results in proteinuria and kidney failure, is caused by mutations to the COL4A3, COL4A4, or COL4A5 genes, and absence of collagen alpha3alpha4alpha5(IV) networks found in mature kidney glomerular basement membrane (GBM). The Alport mouse harbors a deletion of the Col4a3 gene, which also results in the lack of GBM collagen alpha3alpha4alpha5(IV). This animal model shares many features with human Alport patients, including the retention of collagen alpha1alpha2alpha1(IV) in GBMs, effacement of podocyte foot processes, gradual loss of glomerular barrier properties, and progression to renal failure. To learn more about the pathogenesis of Alport disease, we undertook a discovery proteomics approach to identify proteins that were differentially expressed in glomeruli purified from Alport and wild-type mouse kidneys. Pairs of cy3- and cy5-labeled extracts from 5-week old Alport and wild-type glomeruli, respectively, underwent 2-dimensional difference gel electrophoresis. Differentially expressed proteins were digested with trypsin and prepared for mass spectrometry, peptide ion mapping/fingerprinting, and protein identification through database searching. The intermediate filament protein, vimentin, was upregulated approximately 2.5 fold in Alport glomeruli compared to wild-type. Upregulation was confirmed by quantitative real time RT-PCR of isolated Alport glomeruli (5.4 fold over wild-type), and quantitative confocal immunofluorescence microscopy localized over-expressed vimentin specifically to Alport podocytes. We next hypothesized that increases in vimentin abundance might affect the basement membrane protein receptors, integrins, and screened Alport and wild-type glomeruli for expression of integrins likely to be the main receptors for GBM type IV collagen and laminin. Quantitative immunofluorescence showed an increase in integrin alpha1 expression in Alport mesangial cells and an increase in integrin alpha3 in Alport podocytes. We conclude that overexpression of mesangial integrin alpha1 and podocyte vimentin and integrin alpha3 may be important features of glomerular Alport disease, possibly affecting cell-signaling, cell shape and cellular adhesion to the GBM.</bibo:abstract>
+  <core:publishedInTitle>PloS one</core:publishedInTitle>
+  <core:publishedIn rdf:resource="http://experts.kumc.edu/en/publications/2133-PloS_one"/>
+  <core:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2012</core:year>
+  <bibo:pageStart rdf:datatype="http://www.w3.org/2001/XMLSchema#int">e50745</bibo:pageStart>
+  <bibo:doi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">--- - 10.1371/journal.pone.0050745 [doi]- PONE-D-12-29453 [pii]</bibo:doi>
+  <core:localLibraryLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Upregulated+expression+of+integrin+alpha1+in+mesangial+cells+and+integrin+alpha3+and+vimentin+in+podocytes+of+Col4a3-null+%28Alport%29+mice&amp;amp;rft.jtitle=PloS+one&amp;amp;rft.issn=19326203&amp;amp;rft.date=2012-12-07&amp;amp;rft.volume=7&amp;amp;rft.issue=12&amp;amp;rft.spage=e50745&amp;amp;rft.epage=&amp;amp;rft.au=Steenhard,%20Brooke%20M&amp;amp;rft.au=Vanacore,%20Roberto&amp;amp;rft.au=Friedman,%20David&amp;amp;rft.au=Zelenchuk,%20Adrian&amp;amp;rft.au=Stroganova,%20Larysa&amp;amp;rft.au=Isom,%20Kathryn&amp;amp;rft.au=St%20John,%20Patricia%20L&amp;amp;rft.au=Hudson,%20Billy%20G&amp;amp;rft.au=Abrahamson,%20Dale%20R"&gt;Find It @KUMC&lt;/a&gt;</core:localLibraryLink>
+  <bibo:coins rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Upregulated+expression+of+integrin+alpha1+in+mesangial+cells+and+integrin+alpha3+and+vimentin+in+podocytes+of+Col4a3-null+%28Alport%29+mice&amp;amp;rft.jtitle=PloS+one&amp;amp;rft.issn=19326203&amp;amp;rft.date=2012-12-07&amp;amp;rft.volume=7&amp;amp;rft.issue=12&amp;amp;rft.spage=e50745&amp;amp;rft.epage=&amp;amp;rft.au=Steenhard,%20Brooke%20M&amp;amp;rft.au=Vanacore,%20Roberto&amp;amp;rft.au=Friedman,%20David&amp;amp;rft.au=Zelenchuk,%20Adrian&amp;amp;rft.au=Stroganova,%20Larysa&amp;amp;rft.au=Isom,%20Kathryn&amp;amp;rft.au=St%20John,%20Patricia%20L&amp;amp;rft.au=Hudson,%20Billy%20G&amp;amp;rft.au=Abrahamson,%20Dale%20R</bibo:coins>
+  <vitro:timekey rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-17 05:45:21 UTC</vitro:timekey>
+  <vitro:modTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-09-26 14:09:14 UTC</vitro:modTime>
+  <core:informationResourceInAuthorship rdf:resource="http://experts.kumc.edu/en/works/35712#Authorship"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://experts.kumc.edu/en/works/35712#Authorship">
+  <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+  <core:linkedInformationResource rdf:resource="http://experts.kumc.edu/en/works/35712"/>
+  <core:linkedAuthor rdf:resource="http://experts.kumc.edu/en/people/199-Dale_Abrahamson"/>
+</rdf:Description>
+  <oslc:ResponseInfo rdf:about="http://experts.kumc.edu/search?utf8=%E2%9C%93&amp;q=mass+spectrometry&amp;commit=Search&amp;format=rdf?page=1&amp;oslc.paging=true" xmlns:oslc="http://open-services.net/ns/core#ResponseInfo">
+    <oslc:nextPage rdf:resource="http://experts.kumc.edu/search?utf8=%E2%9C%93&amp;q=mass+spectrometry&amp;commit=Search&amp;format=rdf?page=2"/>
+  </oslc:ResponseInfo>
+</rdf:RDF>

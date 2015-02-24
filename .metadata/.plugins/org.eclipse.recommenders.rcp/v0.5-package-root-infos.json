@@ -1,0 +1,613 @@
+[
+  {
+    "symbolicName": "org.apache.jena.jena-iri",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2a5ba8267d3a5f8e116b6b94d53cba3e597d0721",
+    "jarFileModificationDate": "2014-10-02T17:36:44+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jena-iri-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xercesImpl-2.11.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9bb329db1cfc4e22462c9d6b43a8432f5850e92c",
+    "jarFileModificationDate": "2014-10-02T12:11:20+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/xercesImpl-2.11.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3f96f0c24cc94f8b9bd80fa856a290855824861",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2a168e4dd5f0385ccde79ce9edf6643e6d1cbc97",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "243517be110f63d4450d926aa104424b4ec5f51f",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a85d5af49e138a0adefc26bf22d2cfc8c754e6dd",
+    "jarFileModificationDate": "2013-08-08T04:11:25+02:00",
+    "location": "/System/Library/Java/Extensions/jai_codec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "slf4j.api",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 6,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "562424e36df3d2327e8e9301a76027fca17d54ea",
+    "jarFileModificationDate": "2014-10-02T12:08:30+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/slf4j-api-1.7.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a35ff82a676752d932475cbfaa8952e07f38e89c",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "xml-apis-1.4.01",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3789d9fada2d3d458c4ba2de349d48780f381ee3",
+    "jarFileModificationDate": "2014-10-02T12:11:16+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/xml-apis-1.4.01.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cc2f72028c9845e7356d0fdc1fd8def3ad0f5957",
+    "jarFileModificationDate": "2014-09-16T18:36:04+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a612ddc1f4106af87791a6993d8bece567a1c5a8",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.thrift",
+    "version": {
+      "major": 0,
+      "minor": 9,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "16c9cccf08caa385b5fc93934cb3216fe6ac6a72",
+    "jarFileModificationDate": "2014-10-02T12:12:24+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/libthrift-0.9.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9e0498cfe079065557db1d840b65dacb8f5775c3",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3bdc351d92bdac914e0e3af67c596ccf13643970",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-core",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7d8c5d79cc99995e21e6f955857312d8409f02a1",
+    "jarFileModificationDate": "2014-10-02T12:12:22+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jackson-core-2.3.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.github.jsonld-java.jsonld-java",
+    "version": {
+      "major": 0,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d9735e405b59cdae14e2a4b1199483558f3414ab",
+    "jarFileModificationDate": "2014-10-02T12:12:22+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jsonld-java-0.5.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f0175c4c28f08b9236108499c33d6542c0bcd8b4",
+    "jarFileModificationDate": "2013-08-08T04:15:41+02:00",
+    "location": "/System/Library/Java/Extensions/j3daudio.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient-cache",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 6,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "21dc2e715f7177fb218579bd5fc8aba135efa29a",
+    "jarFileModificationDate": "2014-10-02T12:12:24+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/httpclient-cache-4.2.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-arq",
+    "version": {
+      "major": 2,
+      "minor": 12,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8d61b6432a01a4a58b797a5df92681f82b100a58",
+    "jarFileModificationDate": "2014-10-02T17:39:30+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jena-arq-2.12.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-sdb",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1df72dd48adac7b6d46d8f842ae2cd8485ea756d",
+    "jarFileModificationDate": "2014-10-02T17:44:58+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jena-sdb-1.5.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-databind",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63b77400b5f1cf83a81823562c48d3120ef5518e",
+    "jarFileModificationDate": "2014-10-02T12:12:24+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jackson-databind-2.3.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a4e6e3c0a7ec6a332eb38151eeafe70fe15d17f1",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e7533ef29283d456ddcc700ad2ccdd0c3452e464",
+    "jarFileModificationDate": "2013-08-08T04:15:41+02:00",
+    "location": "/System/Library/Java/Extensions/j3dutils.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63fbdd9c7e93573cc15ee487950217886be2aef6",
+    "jarFileModificationDate": "2013-08-08T04:15:03+02:00",
+    "location": "/System/Library/Java/Extensions/dns_sd.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9c41c0dac908567ea498f1072fb54cd6aa4712f4",
+    "jarFileModificationDate": "2013-11-05T22:57:02+01:00",
+    "location": "/System/Library/Java/Extensions/MRJToolkit.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "slf4j.log4j12",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 6,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6953717b9850aeb26d1b8375ca07dbd9c50eca4e",
+    "jarFileModificationDate": "2014-10-02T12:08:30+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/slf4j-log4j12-1.7.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "21240ab7c12f378058cbb7a9b2f5b762dd30e1b8",
+    "jarFileModificationDate": "2013-08-08T04:11:25+02:00",
+    "location": "/System/Library/Java/Extensions/jai_core.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "005810d865dab9bd200ea485d0e44c18a329aa26",
+    "jarFileModificationDate": "2013-08-08T04:15:41+02:00",
+    "location": "/System/Library/Java/Extensions/vecmath.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-core",
+    "version": {
+      "major": 2,
+      "minor": 12,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b62a54d2ef9faed9b62f89c61403dd81a56ad26a",
+    "jarFileModificationDate": "2014-10-02T17:37:42+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jena-core-2.12.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c593d8497519275ac686aee44a1e4b956f578d2a",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.jena.jena-tdb",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fecb449f1d56ff58ed2a080b52ffe284fb9956da",
+    "jarFileModificationDate": "2014-10-02T17:43:16+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jena-tdb-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 17,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5af35056b4d257e4b64b9e8069c0746e8b08629f",
+    "jarFileModificationDate": "2014-10-02T12:08:32+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/log4j-1.2.17.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6491b69b0bd733dd8f4deeb43bc1990eb6c2ecae",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 5,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "472f0f5f8dba5d1962cb9d7739feed739a31c30d",
+    "jarFileModificationDate": "2014-10-02T12:12:22+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/httpcore-4.2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c1a73921e2f1f3dde91b4958058c0d83a058acea",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c5d7b7bfab9b433c4b62aebbe76a564b6bcf8192",
+    "jarFileModificationDate": "2013-08-08T04:11:00+02:00",
+    "location": "/System/Library/Java/Extensions/mlibwrapper_jai.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b5fdbbfe2aa789f17edbbb930dfceaff5ac03c7f",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "51dbde992ee8e0ee2e9e1be38fcc6d3295ebc66e",
+    "jarFileModificationDate": "2013-08-08T04:16:58+02:00",
+    "location": "/System/Library/Java/Extensions/AppleScriptEngine.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.csv",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8a0796ad6541a144eb1c00b93e06fbac03a9f313",
+    "jarFileModificationDate": "2014-10-02T12:12:24+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/commons-csv-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "16e10ff272cca60423a2ad628d6c239dcff936d9",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.lang3",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "905075e6c80f206bbe6cf1e809d2caa69f420c76",
+    "jarFileModificationDate": "2014-10-02T12:11:04+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/commons-lang3-3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "06b897f357f111e205017803b1d10f972e8f1075",
+    "jarFileModificationDate": "2013-08-08T04:15:41+02:00",
+    "location": "/System/Library/Java/Extensions/j3dcore.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 6,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e4ca30a6a3a075053a61c6fc850d2432dc012ba7",
+    "jarFileModificationDate": "2014-10-02T12:12:22+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/httpclient-4.2.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "afb9287c4402a6d6283fda6fe7e0eba4a76dc55b",
+    "jarFileModificationDate": "2014-09-18T02:09:18+02:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b7f0fc8f61ecadeb3695f0b9464755eee44374d4",
+    "jarFileModificationDate": "2014-10-02T12:09:50+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/commons-codec-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-annotations",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f5e853a20b60758922453d56f9ae1e64af5cb3da",
+    "jarFileModificationDate": "2014-10-02T12:12:22+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jackson-annotations-2.3.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jcl.over.slf4j",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 6,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ab1648fe1dd6f1e5c2ec6d12f394672bb8c1036a",
+    "jarFileModificationDate": "2014-10-02T12:12:24+02:00",
+    "location": "/Users/lstilo/jena/apache-jena-2.12.1/lib/jcl-over-slf4j-1.7.6.jar",
+    "javaRuntime": false
+  }
+]
